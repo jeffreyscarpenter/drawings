@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T23:47:19.981Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Iko3bPyOwjzOp1-GRv82" version="14.4.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-30T23:08:47.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="R8lBUFWXgBTuZtuuF29o" version="14.6.6" type="github" pages="7">
   <diagram id="jZTrczeAR3pe7n8aTdly" name="Monitoring">
-    <mxGraphModel dx="1186" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="CLP15NjjOyD6XGCgOY49-3" value="Cassandra Data Center" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#153E71;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;strokeWidth=2;align=center;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="140" width="270" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="CLP15NjjOyD6XGCgOY49-17" value="" style="whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#153E71;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="CLP15NjjOyD6XGCgOY49-17" value="Cassandra Node" style="whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#153E71;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;strokeWidth=2;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="55" y="190" width="210" height="220" as="geometry" />
         </mxCell>
         <mxCell id="CLP15NjjOyD6XGCgOY49-28" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#153E71;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;strokeWidth=2;" parent="1" vertex="1">
@@ -134,6 +134,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="785" y="262.5" as="sourcePoint" />
             <mxPoint x="560" y="112.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19PfFQlbsDb7MmPtcMoc-3" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#E6E6E6;fontSize=12;exitX=0.453;exitY=1.007;exitDx=0;exitDy=0;rounded=0;strokeColor=#999999;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o_8b-siNr5LnZfxsJXQO-11" target="CLP15NjjOyD6XGCgOY49-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="462.0340000000001" y="101.99249999999995" as="sourcePoint" />
+            <mxPoint x="467.90380241715684" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
